@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { HeaderComponent } from "./header/header.component";
-import { UserComponent } from "./user/user.component";
+import { UserComponent } from "./song-list/user.component";
 
 @Component({ // adds metadata to the attached class (AppComponent).
   selector: 'app-root', // tells Angular what elements in the HTML code it should replace with markup.
